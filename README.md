@@ -1,4 +1,4 @@
-# 📰 Mishanja Game's Profile Page󠀠󠀠󠀠 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀⠀ ⠀⠀ ⠀ ⠀ ⠀ - 🗖 x 
+# 📰 Mishanja Game's Profile Page󠀠󠀠󠀠 ⠀ ⠀ ⠀ ⠀ ⠀ ⠀⠀ ⠀ ⠀⠀⠀⠀⠀⠀ ⠀ - 🗖 x 
 
 ```bash
 [root@github.com]$ fetch https://localhost:8080/api/u?=1377113519020560/readme
@@ -27,7 +27,7 @@ Loading template: [error-fetch_profile.md]
 ```
 
 ---
-
+<!--
 ## 🚨 ERROR 404: Profile Data Not Found
 
 **Status:** `Probably debugging something`  
@@ -43,7 +43,8 @@ Load Level: [######............] 30%
 Bug Count: ∞^∞
 ```
 
-### 🎮 About Mishanja Games
+### 🎮 About Mishanja Games(Me)-->
+## 🎮 About Mishanja Games(Me)
 > *"Well... It's a bug, but it could be a surprise mechanic(feature)"*
 
 I make games that sometimes work on the first try (rarely).
