@@ -84,7 +84,7 @@ Bugs Apperance: Always in every code line
 
 ### 📫 How to Reach Me
 ```bash
-$ echo "Feel free to reach me out!" > .github.io/socials
+$ echo "Feel free to reach me out!" > https://mishanjagames.github.io/socials
 # (Translation: I'll respond eventually..... (but not to everyone))
 ```
 
