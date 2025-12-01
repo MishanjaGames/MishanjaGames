@@ -22,9 +22,8 @@ TypeError: Cannot read property 'data' of null
 ```
 
 ```bash
-[root@github ~]$ console.log('Fine... loading emergency template instead')
 Loading template: [error-fetch_profile.md]
-[root@github ~]$ cat ./error-fetch_profile.md
+[root@github.com]$ cat ./error-fetch_profile.md
 ```
 
 ---
